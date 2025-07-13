@@ -1,3 +1,4 @@
 #### 开源
 - [fakerjs](https://fakerjs.dev/)
 - [mswjs](https://mswjs.io/)
+- [dinero.js](https://github.com/dinerojs/dinero.js)
