@@ -1,4 +1,5 @@
 #### 开源
+- [njs](https://github.com/nginx/njs)
 - [Gridstack.js](https://gridstackjs.com/)
 - [fakerjs](https://fakerjs.dev/)
 - [mswjs](https://mswjs.io/)
