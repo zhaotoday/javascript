@@ -1,4 +1,5 @@
 #### 开源
+- [DejaOS](https://github.com/DejaOS/DejaOS)
 - [njs](https://github.com/nginx/njs)
 - [Gridstack.js](https://gridstackjs.com/)
 - [fakerjs](https://fakerjs.dev/)
