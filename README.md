@@ -9,5 +9,6 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [【JavaScript】🚀 数据类型大揭秘：typeof/instanceof/toString.call 终极指南](https://juejin.cn/post/7522686616356257818)
 - [表单验证太复杂？用 Zod 让它变得简单又安全](https://juejin.cn/post/7496500888468127807)
 - [浅谈 23 种 JavaScript 设计模式](https://juejin.cn/post/7414367525154160678)
