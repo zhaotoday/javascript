@@ -1,4 +1,5 @@
 #### 开源
+- [barba](https://github.com/barbajs/barba)
 - [formatjs](https://formatjs.github.io/)
 - [DejaOS](https://github.com/DejaOS/DejaOS)
 - [njs](https://github.com/nginx/njs)
