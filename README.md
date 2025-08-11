@@ -1,4 +1,5 @@
 #### 开源
+- [js-xss](https://github.com/leizongmin/js-xss)
 - [barba](https://github.com/barbajs/barba)
 - [formatjs](https://formatjs.github.io/)
 - [DejaOS](https://github.com/DejaOS/DejaOS)
