@@ -1,4 +1,6 @@
 #### 开源
+- [x6](https://x6.antv.antgroup.com/)
+- [g6](https://g6.antv.antgroup.com/)
 - [js-xss](https://github.com/leizongmin/js-xss)
 - [barba](https://github.com/barbajs/barba)
 - [formatjs](https://formatjs.github.io/)
