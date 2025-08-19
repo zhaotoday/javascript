@@ -1,4 +1,5 @@
 #### 开源
+- [pinyin-pro](https://github.com/zh-lx/pinyin-pro)
 - [pinyin-match](https://github.com/xmflswood/pinyin-match)
 - [fabric.js](https://github.com/fabricjs/fabric.js)
 - [flex-tools](https://zhangfisher.github.io/flex-tools/)
