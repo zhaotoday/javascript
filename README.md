@@ -1,4 +1,5 @@
 #### 开源
+- [thumbmarkjs](https://github.com/thumbmarkjs/thumbmarkjs)
 - [Broprint.js](https://github.com/Rajesh-Royal/Broprint.js)
 - [pinyin-pro](https://github.com/zh-lx/pinyin-pro)
 - [pinyin-match](https://github.com/xmflswood/pinyin-match)
