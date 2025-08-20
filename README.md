@@ -1,4 +1,5 @@
 #### 开源
+- [Tone.js](https://github.com/Tonejs/Tone.js)
 - [flow](https://github.com/pacexy/flow)
 - [Modernizr](https://github.com/Modernizr/Modernizr)
 - [thumbmarkjs](https://github.com/thumbmarkjs/thumbmarkjs)
