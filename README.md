@@ -1,4 +1,5 @@
 #### 开源
+- [svgedit](https://github.com/SVG-Edit/svgedit)
 - [eruda](https://github.com/liriliri/eruda)
 - [Tone.js](https://github.com/Tonejs/Tone.js)
 - [flow](https://github.com/pacexy/flow)
