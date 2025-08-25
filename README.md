@@ -30,6 +30,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [前端优秀编码技巧](https://juejin.cn/post/7497230252017696819)
 - [前端微服务框架深度对比：无界（Momentum）与乾坤（Qiankun）实战指南](https://juejin.cn/post/7514956702345773065)
 - [【JavaScript】🚀 数据类型大揭秘：typeof/instanceof/toString.call 终极指南](https://juejin.cn/post/7522686616356257818)
 - [表单验证太复杂？用 Zod 让它变得简单又安全](https://juejin.cn/post/7496500888468127807)
