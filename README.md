@@ -1,4 +1,5 @@
 #### 开源
+- [flyde](https://flyde.dev/)
 - [cucumber-js](https://github.com/cucumber/cucumber-js)
 - [country-flags](https://github.com/hampusborgos/country-flags)
 - [marked](https://github.com/markedjs/marked)
