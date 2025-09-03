@@ -1,4 +1,5 @@
 #### 开源
+- [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js)
 - [flyde](https://flyde.dev/)
 - [cucumber-js](https://github.com/cucumber/cucumber-js)
 - [country-flags](https://github.com/hampusborgos/country-flags)
