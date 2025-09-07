@@ -1,4 +1,5 @@
 #### 开源
+- [user-agents](https://github.com/intoli/user-agents)
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js)
 - [flyde](https://flyde.dev/)
 - [cucumber-js](https://github.com/cucumber/cucumber-js)
