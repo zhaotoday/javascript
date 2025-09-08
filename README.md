@@ -1,4 +1,5 @@
 #### 开源
+- [snapdom](https://github.com/zumerlab/snapdom)
 - [radashi](https://github.com/radashi-org/radashi)
 - [Radash](https://radash.uihtm.com/)
 - [user-agents](https://github.com/intoli/user-agents)
