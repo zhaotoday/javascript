@@ -1,4 +1,5 @@
 #### 开源
+- [verdaccio](https://github.com/verdaccio/verdaccio)
 - [snapdom](https://github.com/zumerlab/snapdom)
 - [radashi](https://github.com/radashi-org/radashi)
 - [Radash](https://radash.uihtm.com/)
