@@ -1,4 +1,5 @@
 #### 开源
+- [jszip](https://github.com/Stuk/jszip)
 - [ripple](https://github.com/trueadm/ripple)
 - [verdaccio](https://github.com/verdaccio/verdaccio)
 - [snapdom](https://github.com/zumerlab/snapdom)
