@@ -1,4 +1,5 @@
 #### 开源
+- [ripple](https://github.com/trueadm/ripple)
 - [verdaccio](https://github.com/verdaccio/verdaccio)
 - [snapdom](https://github.com/zumerlab/snapdom)
 - [radashi](https://github.com/radashi-org/radashi)
