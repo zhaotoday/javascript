@@ -43,6 +43,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [摸鱼神器！前端大佬私藏的 11 个 JS 神级 API，复制粘贴就能用，效率翻倍](https://juejin.cn/post/7546420270422409242)
 - [Svelte邪修的JSDoc，到底是个啥？](https://juejin.cn/post/7542461467553202214)
 - [几种神秘鲜为人知但却有趣的前端技术](https://juejin.cn/post/7423314983884292134)
 - [前端优秀编码技巧](https://juejin.cn/post/7497230252017696819)
