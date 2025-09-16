@@ -43,6 +43,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [Svelte邪修的JSDoc，到底是个啥？](https://juejin.cn/post/7542461467553202214)
 - [几种神秘鲜为人知但却有趣的前端技术](https://juejin.cn/post/7423314983884292134)
 - [前端优秀编码技巧](https://juejin.cn/post/7497230252017696819)
 - [前端微服务框架深度对比：无界（Momentum）与乾坤（Qiankun）实战指南](https://juejin.cn/post/7514956702345773065)
