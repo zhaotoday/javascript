@@ -1,4 +1,5 @@
 #### 开源
+- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)
 - [unimport](https://github.com/unjs/unimport)
 - [autofit.js](https://auto-plugin.github.io/autofit.js/)
 - [WebSocket DevTools](https://www.websocket-devtools.com/)
