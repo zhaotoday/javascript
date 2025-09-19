@@ -1,4 +1,5 @@
 #### 开源
+- [autofit.js](https://auto-plugin.github.io/autofit.js/)
 - [WebSocket DevTools](https://www.websocket-devtools.com/)
 - [jszip](https://github.com/Stuk/jszip)
 - [ripple](https://github.com/trueadm/ripple)
