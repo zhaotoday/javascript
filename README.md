@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [tyme](https://6tail.cn/tyme.html)
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)
 - [unimport](https://github.com/unjs/unimport)
