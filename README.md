@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [intlayer](https://github.com/aymericzip/intlayer)
 - [xterm.js](https://github.com/xtermjs/xterm.js)
 - [tyme](https://6tail.cn/tyme.html)
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
