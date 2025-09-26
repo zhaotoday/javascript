@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [mediabunny](https://github.com/Vanilagy/mediabunny)
 - [intlayer](https://github.com/aymericzip/intlayer)
 - [xterm.js](https://github.com/xtermjs/xterm.js)
 - [tyme](https://6tail.cn/tyme.html)
