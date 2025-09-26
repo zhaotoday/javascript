@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [simple-chromium-ai](https://github.com/kstonekuan/simple-chromium-ai)
 - [mediabunny](https://github.com/Vanilagy/mediabunny)
 - [intlayer](https://github.com/aymericzip/intlayer)
 - [xterm.js](https://github.com/xtermjs/xterm.js)
