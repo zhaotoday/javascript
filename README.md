@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [knip](https://github.com/webpro-nl/knip)
 - [capnweb](https://github.com/cloudflare/capnweb)
 - [archiveweb.page](https://github.com/webrecorder/archiveweb.page)
 - [simple-chromium-ai](https://github.com/kstonekuan/simple-chromium-ai)
