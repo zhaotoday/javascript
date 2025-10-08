@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [player](https://github.com/vidstack/player)
 - [cspell](https://github.com/streetsidesoftware/cspell)
 - [cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
 - [knip](https://github.com/webpro-nl/knip)
