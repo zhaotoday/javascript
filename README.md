@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [xgplayer](https://github.com/bytedance/xgplayer)
 - [svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor)
 - [player](https://github.com/vidstack/player)
 - [cspell](https://github.com/streetsidesoftware/cspell)
