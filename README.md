@@ -63,6 +63,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [我工作8年，总结的20个高效开发的JS工具函数](https://juejin.cn/post/7520248151845945382)
 - [90% 前端都不知道的 20 个「零依赖」浏览器原生能力！](https://juejin.cn/post/7545294766975615015)
 - [摸鱼神器！前端大佬私藏的 11 个 JS 神级 API，复制粘贴就能用，效率翻倍](https://juejin.cn/post/7546420270422409242)
 - [Svelte邪修的JSDoc，到底是个啥？](https://juejin.cn/post/7542461467553202214)
