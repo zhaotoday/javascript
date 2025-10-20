@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [web-print-pdf](https://github.com/weixiaoyi/web-print-pdf)
 - [howler.js](https://github.com/goldfire/howler.js)
 - [xgplayer](https://github.com/bytedance/xgplayer)
 - [svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor)
