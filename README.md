@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [leaferjs](https://www.leaferjs.com/)
 - [decimal.js](https://github.com/MikeMcl/decimal.js)
 - [web-print-pdf](https://github.com/weixiaoyi/web-print-pdf)
 - [howler.js](https://github.com/goldfire/howler.js)
