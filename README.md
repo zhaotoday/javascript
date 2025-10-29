@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [id-card-of-china-js](https://github.com/medz/id-card-of-china-js)
 - [filepond](https://github.com/pqina/filepond)
 - [leaferjs](https://www.leaferjs.com/)
 - [decimal.js](https://github.com/MikeMcl/decimal.js)
