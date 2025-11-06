@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [InversifyJS](https://github.com/inversify/InversifyJS)
 - [markdown-exit](https://github.com/serkodev/markdown-exit)
 - [IDValidator](https://github.com/mc-zone/IDValidator)
 - [id-card-of-china-js](https://github.com/medz/id-card-of-china-js)
