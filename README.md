@@ -72,6 +72,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [「周更第6期」实用JS库推荐：InversifyJS](https://juejin.cn/post/7559103707758936107)
 - [一文搞定前端Zod.js](https://juejin.cn/post/7509796889149177892)
 - [我工作8年，总结的20个高效开发的JS工具函数](https://juejin.cn/post/7520248151845945382)
 - [90% 前端都不知道的 20 个「零依赖」浏览器原生能力！](https://juejin.cn/post/7545294766975615015)
