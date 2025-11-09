@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [validator.js](https://github.com/validatorjs/validator.js)
 - [joi](https://github.com/hapijs/joi)
 - [number-precision](https://github.com/nefe/number-precision)
 - [InversifyJS](https://github.com/inversify/InversifyJS)
