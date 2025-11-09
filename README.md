@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [number-precision](https://github.com/nefe/number-precision)
 - [InversifyJS](https://github.com/inversify/InversifyJS)
 - [markdown-exit](https://github.com/serkodev/markdown-exit)
 - [IDValidator](https://github.com/mc-zone/IDValidator)
