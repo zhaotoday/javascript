@@ -75,6 +75,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [JavaScript + Web Audio API 打造炫酷音乐可视化效果，让你的网页跟随音乐跳起来](https://juejin.cn/post/7569904733718380563)
 - [「周更第6期」实用JS库推荐：InversifyJS](https://juejin.cn/post/7559103707758936107)
 - [一文搞定前端Zod.js](https://juejin.cn/post/7509796889149177892)
 - [我工作8年，总结的20个高效开发的JS工具函数](https://juejin.cn/post/7520248151845945382)
