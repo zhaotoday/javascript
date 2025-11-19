@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [kito](https://github.com/kitojs/kito)
 - [validator.js](https://github.com/validatorjs/validator.js)
 - [joi](https://github.com/hapijs/joi)
 - [number-precision](https://github.com/nefe/number-precision)
