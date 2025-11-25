@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [canvas-confetti](https://www.kirilv.com/canvas-confetti/)
 - [excalidraw](https://github.com/excalidraw/excalidraw)
 - [kito](https://github.com/kitojs/kito)
 - [validator.js](https://github.com/validatorjs/validator.js)
