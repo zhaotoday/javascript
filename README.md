@@ -80,6 +80,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [简单好用的加密库：Hashids](https://juejin.cn/post/7469624674294300710)
 - [前端代码保护：防止网页调试](https://juejin.cn/post/7524966108529967156)
 - [JavaScript + Web Audio API 打造炫酷音乐可视化效果，让你的网页跟随音乐跳起来](https://juejin.cn/post/7569904733718380563)
 - [「周更第6期」实用JS库推荐：InversifyJS](https://juejin.cn/post/7559103707758936107)
