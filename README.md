@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [hashids.js](https://github.com/niieani/hashids.js)
 - [infographic](https://github.com/antvis/infographic)
 - [canvas-confetti](https://www.kirilv.com/canvas-confetti/)
 - [excalidraw](https://github.com/excalidraw/excalidraw)
