@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [avatar-clipper](https://github.com/pushu-wf/avatar-clipper)
 - [zess](https://github.com/rpsffx/zess)
 - [VChart](https://github.com/VisActor/VChart)
 - [hashids.js](https://github.com/niieani/hashids.js)
