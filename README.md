@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [@qnvip/core](https://tech.qnvip.com/core/)
 - [WaveSurfer](https://github.com/katspaugh/wavesurfer.js)
 - [Heat.js](https://github.com/williamtroup/Heat.js)
 - [avatar-clipper](https://github.com/pushu-wf/avatar-clipper)
