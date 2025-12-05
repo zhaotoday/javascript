@@ -86,6 +86,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [🚀 不仅是工具库，更是国内前端开发的“瑞士军刀” —— @qnvip/core](https://juejin.cn/post/7577607051586256911)
 - [在 Web 前端实现流式 TTS 播放](https://juejin.cn/post/7548595210563797007)
 - [简单好用的加密库：Hashids](https://juejin.cn/post/7469624674294300710)
 - [前端代码保护：防止网页调试](https://juejin.cn/post/7524966108529967156)
