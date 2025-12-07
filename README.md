@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [TanStack/ai](https://github.com/TanStack/ai)
 - [@qnvip/core](https://tech.qnvip.com/core/)
 - [WaveSurfer](https://github.com/katspaugh/wavesurfer.js)
 - [Heat.js](https://github.com/williamtroup/Heat.js)
