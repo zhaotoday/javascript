@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [html-entities-decoder](https://github.com/xinglie/html-entities-decoder)
 - [report-designer](https://github.com/xinglie/report-designer)
 - [TanStack/ai](https://github.com/TanStack/ai)
 - [@qnvip/core](https://tech.qnvip.com/core/)
