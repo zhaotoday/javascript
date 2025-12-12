@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [mydraft-cc/ui](https://github.com/mydraft-cc/ui)
 - [html-entities-decoder](https://github.com/xinglie/html-entities-decoder)
 - [report-designer](https://github.com/xinglie/report-designer)
 - [TanStack/ai](https://github.com/TanStack/ai)
