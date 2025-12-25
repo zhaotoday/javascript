@@ -37,6 +37,7 @@
 - [cspell](https://github.com/streetsidesoftware/cspell)
 - [cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
 - [knip](https://github.com/webpro-nl/knip)
+- [ts-prune](https://github.com/nadeesha/ts-prune)
 - [capnweb](https://github.com/cloudflare/capnweb)
 - [archiveweb.page](https://github.com/webrecorder/archiveweb.page)
 - [simple-chromium-ai](https://github.com/kstonekuan/simple-chromium-ai)
