@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [qnvip-core](https://github.com/qnvip-frontend/qnvip-core)
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui)
 - [html-entities-decoder](https://github.com/xinglie/html-entities-decoder)
 - [report-designer](https://github.com/xinglie/report-designer)
