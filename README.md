@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [mquickjs](https://github.com/bellard/mquickjs)
 - [miragejs](https://github.com/miragejs/miragejs)
 - [qnvip-core](https://github.com/qnvip-frontend/qnvip-core)
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui)
