@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [EasyEditor](https://github.com/Easy-Editor/EasyEditor)
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh)
 - [mquickjs](https://github.com/bellard/mquickjs)
 - [miragejs](https://github.com/miragejs/miragejs)
