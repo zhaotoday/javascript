@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [wechat-emoji-renderer](https://github.com/wangtager/wechat-emoji-renderer)
 - [StreamPanel](https://github.com/bywwcnll/StreamPanel)
 - [EasyEditor](https://github.com/Easy-Editor/EasyEditor)
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh)
