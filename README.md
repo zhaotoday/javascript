@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [etherpad-lite](https://github.com/ether/etherpad-lite)
 - [images-viewer](https://github.com/ybchen292/images-viewer)
 - [@scqilin/phone-ui](https://github.com/scqilin/phone-ui)
 - [wechat-emoji-renderer](https://github.com/wangtager/wechat-emoji-renderer)
