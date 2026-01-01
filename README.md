@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [fingerprinter-js](https://github.com/Lorenzo-Coslado/fingerprinter-js)
 - [etherpad-lite](https://github.com/ether/etherpad-lite)
 - [images-viewer](https://github.com/ybchen292/images-viewer)
 - [@scqilin/phone-ui](https://github.com/scqilin/phone-ui)
