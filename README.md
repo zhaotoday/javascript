@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [phone](https://github.com/AfterShip/phone)
 - [get-browser-fingerprint](https://github.com/damianobarbati/get-browser-fingerprint)
 - [guardianjs](https://github.com/GuardianStack/guardianjs)
 - [fingerprinter-js](https://github.com/Lorenzo-Coslado/fingerprinter-js)
