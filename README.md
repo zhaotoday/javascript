@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [chinese-days](https://github.com/vsme/chinese-days)
 - [phone](https://github.com/AfterShip/phone)
 - [get-browser-fingerprint](https://github.com/damianobarbati/get-browser-fingerprint)
 - [guardianjs](https://github.com/GuardianStack/guardianjs)
