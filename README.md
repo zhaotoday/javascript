@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [Obs.js](https://github.com/csswizardry/Obs.js)
 - [e-virt-table](https://github.com/laichuangwen/e-virt-table)
 - [chinese-days](https://github.com/vsme/chinese-days)
 - [phone](https://github.com/AfterShip/phone)
