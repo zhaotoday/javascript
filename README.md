@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [cnchar](https://github.com/theajack/cnchar)
 - [pinyin](https://github.com/Brooooooklyn/pinyin)
 - [hanzi-writer](https://github.com/chanind/hanzi-writer)
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js)
