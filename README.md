@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [hanzi-writer](https://github.com/chanind/hanzi-writer)
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js)
 - [big.js](https://github.com/MikeMcl/big.js)
 - [Obs.js](https://github.com/csswizardry/Obs.js)
