@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [GoJS](https://github.com/NorthwoodsSoftware/GoJS)
 - [cnchar](https://github.com/theajack/cnchar)
 - [pinyin](https://github.com/Brooooooklyn/pinyin)
 - [hanzi-writer](https://github.com/chanind/hanzi-writer)
