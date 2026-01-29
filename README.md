@@ -116,6 +116,7 @@
 - [background-removal-js](https://github.com/imgly/background-removal-js)
 
 #### 文章
+- [uniapp使用stomp.js链接WebSocket连接hook](https://juejin.cn/post/7600342663319355433)
 - [深入理解MessageChannel：JS双向通信的高效解决方案](https://juejin.cn/post/7595232643464118306)
 - [🚀 不仅是工具库，更是国内前端开发的“瑞士军刀” —— @qnvip/core](https://juejin.cn/post/7577607051586256911)
 - [在 Web 前端实现流式 TTS 播放](https://juejin.cn/post/7548595210563797007)
