@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [modern.js](https://github.com/web-infra-dev/modern.js)
 - [HomePage](https://github.com/SimonAKing/HomePage)
 - [gojs](https://gojs.net/latest/)
 - [unioc](https://github.com/iocjs/unioc)
