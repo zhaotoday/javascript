@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [medium-zoom](https://github.com/francoischalifour/medium-zoom)
 - [diagram-js](https://github.com/bpmn-io/diagram-js)
 - [modern.js](https://github.com/web-infra-dev/modern.js)
 - [HomePage](https://github.com/SimonAKing/HomePage)
