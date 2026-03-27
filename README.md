@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [version-check](https://github.com/ybchen292/version-check)
 - [element-source](https://github.com/aidenybai/element-source)
 - [tld.js](https://github.com/thom4parisot/tld.js)
 - [medium-zoom](https://github.com/francoischalifour/medium-zoom)
