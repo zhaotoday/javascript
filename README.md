@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [calendar](https://github.com/dayflow-js/calendar)
 - [libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js)
 - [pretext](https://github.com/chenglou/pretext)
 - [version-check](https://github.com/ybchen292/version-check)
