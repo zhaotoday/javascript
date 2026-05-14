@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [DeviceJs](https://github.com/skillnull/DeviceJs)
 - [calendar](https://github.com/dayflow-js/calendar)
 - [libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js)
 - [pretext](https://github.com/chenglou/pretext)
