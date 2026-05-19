@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [shiki](https://github.com/shikijs/shiki)
 - [textmate-grammars-themes](https://github.com/shikijs/textmate-grammars-themes)
 - [DeviceJs](https://github.com/skillnull/DeviceJs)
 - [calendar](https://github.com/dayflow-js/calendar)
