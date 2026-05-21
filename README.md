@@ -2,6 +2,8 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [ip-location-db](https://github.com/sapics/ip-location-db)
+- [GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City)
 - [shiki](https://github.com/shikijs/shiki)
 - [textmate-grammars-themes](https://github.com/shikijs/textmate-grammars-themes)
 - [DeviceJs](https://github.com/skillnull/DeviceJs)
