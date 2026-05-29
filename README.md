@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [formkit](https://github.com/formkit/formkit)
 - [ip-location-db](https://github.com/sapics/ip-location-db)
 - [GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City)
 - [shiki](https://github.com/shikijs/shiki)
