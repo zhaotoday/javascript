@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)
 - [better-auth](https://github.com/better-auth/better-auth)
 - [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
 - [retry-axios](https://github.com/JustinBeckwith/retry-axios)
