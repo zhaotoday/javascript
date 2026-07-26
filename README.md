@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [difit](https://github.com/yoshiko-pg/difit)
 - [verkit](https://github.com/sxzz/verkit)
 - [jsonrepair](https://github.com/josdejong/jsonrepair)
 - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)
