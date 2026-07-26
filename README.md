@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [git-diff-view](https://github.com/MrWangJustToDo/git-diff-view)
 - [json-diff-kit](https://github.com/rexskz/json-diff-kit)
 - [difit](https://github.com/yoshiko-pg/difit)
 - [verkit](https://github.com/sxzz/verkit)
