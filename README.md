@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [geolib](https://github.com/manuelbieh/geolib)
 - [modern-screenshot](https://github.com/qq15725/modern-screenshot)
 - [git-diff-view](https://github.com/MrWangJustToDo/git-diff-view)
 - [json-diff-kit](https://github.com/rexskz/json-diff-kit)
