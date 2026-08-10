@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [client-sdk-js](https://github.com/livekit/client-sdk-js)
 - [uiwjs](https://github.com/uiwjs)
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
 - [geolib](https://github.com/manuelbieh/geolib)
