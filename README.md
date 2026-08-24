@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [thumbmarkjs](https://github.com/thumbmarkjs/thumbmarkjs)
 - [leafer-ui](https://github.com/leaferjs/leafer-ui)
 - [client-sdk-js](https://github.com/livekit/client-sdk-js)
 - [uiwjs](https://github.com/uiwjs)
