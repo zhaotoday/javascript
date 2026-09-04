@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [embla-carousel](https://github.com/davidjerleke/embla-carousel)
 - [device-uuid](https://github.com/biggora/device-uuid)
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js)
 - [SketchForge-3D](https://github.com/Formsmith746/SketchForge-3D)
