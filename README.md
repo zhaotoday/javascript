@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [nzh](https://github.com/cnwhy/nzh)
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css)
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel)
 - [device-uuid](https://github.com/biggora/device-uuid)
