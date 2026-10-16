@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [rehype-sanitize](https://github.com/rehypejs/rehype-sanitize)
 - [shiki](https://github.com/shikijs/shiki)
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)
 - [fabric.js](https://github.com/fabricjs/fabric.js)
