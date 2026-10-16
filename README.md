@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [ky](https://github.com/sindresorhus/ky)
 - [DOMPurify](https://github.com/cure53/DOMPurify)
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas)
 - [tegaki](https://github.com/gkurt/tegaki)
