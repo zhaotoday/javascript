@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [screenshots](https://github.com/nashaofu/screenshots)
 - [emdash](https://github.com/emdash-cms/emdash)
 - [virtual](https://github.com/TanStack/virtual)
 - [tiptap](https://github.com/ueberdosis/tiptap)
