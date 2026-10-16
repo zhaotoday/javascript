@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [tiptap](https://github.com/ueberdosis/tiptap)
 - [codemirror](https://github.com/codemirror/dev)
 - [floating-ui](https://github.com/floating-ui/floating-ui)
 - [streamdown](https://github.com/vercel/streamdown)
