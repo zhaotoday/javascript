@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)
 - [fabric.js](https://github.com/fabricjs/fabric.js)
 - [dagre](https://github.com/dagrejs/dagre)
 - [ky](https://github.com/sindresorhus/ky)
