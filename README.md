@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [streamdown](https://github.com/vercel/streamdown)
 - [rehype-highlight](https://github.com/rehypejs/rehype-highlight)
 - [rehype-sanitize](https://github.com/rehypejs/rehype-sanitize)
 - [shiki](https://github.com/shikijs/shiki)
