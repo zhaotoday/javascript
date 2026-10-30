@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [transformers.js](https://github.com/huggingface/transformers.js)
 - [json-render](https://github.com/vercel-labs/json-render)
 - [HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js)
 - [screenshots](https://github.com/nashaofu/screenshots)
