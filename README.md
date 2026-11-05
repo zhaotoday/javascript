@@ -2,6 +2,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### 开源
+- [konva](https://github.com/konvajs/konva)
 - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 - [Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer)
 - [transformers.js](https://github.com/huggingface/transformers.js)
